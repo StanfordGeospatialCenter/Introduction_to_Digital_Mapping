@@ -3,7 +3,9 @@
 The following are materials used in our "Introduction to GIS" talk, when we deliver the talk, but without an hands-on component. You will find slides, as well as links to materials we reference in the talk. 
 
 ##Slides
-###Stace's Slide Deck is here: [http://slides.com/staceymaples/gisintro/fullscreen](http://slides.com/staceymaples/gisintro/fullscreen)
+###Stace's Slide Deck is here: 
+
+[http://slides.com/staceymaples/gisintro/fullscreen](http://slides.com/staceymaples/gisintro/fullscreen)
 
 ###David's Slides are here:
 [https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzZ2NjYXJ0fGd4OjdhNWNjMGI3NzUzZjZiMzA](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzZ2NjYXJ0fGd4OjdhNWNjMGI3NzUzZjZiMzA)
