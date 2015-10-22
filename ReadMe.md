@@ -30,6 +30,12 @@ All of our tutorial materials in one place. On Github, so update what is broken 
 [http://earthworks.stanford.edu](http://earthworks.stanford.edu)  
 Earthworks is Stanford University Library's geospatial data discovery application. It provides search across the geospatial data holdings of eight major institutions with in browser preview of geometry and attributes. The application provides access to 23,000+ geospatial datasets, over 16,000 of which are in the public domain.
 
+**Stanford.CartoDB.com**
+[http:/stanford.cartodb.com/](http://stanford.cartodb.com)
+
+This provides Stanford researchers access to the full CartoDB platform, including 250mb of data storage per account, unlimited map views, sharing of private datasets within the Stanford Enterprise Organization, syncing of CartoDB datasets to Google forms and DropBox datasets, publishing of public maps from private datasets, and more! Soon to come will be migration tools for moving from one account to another, as well as Groups, for creating working groups and managing Labs, Classes and projects.
+
+
 **Clowns of America, International Membership Point Shapefile (anonymized)**  
 
 [https://searchworks.stanford.edu/view/tf124yx1784](https://searchworks.stanford.edu/view/tf124yx1784)
