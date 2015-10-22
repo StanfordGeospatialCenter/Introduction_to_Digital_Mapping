@@ -77,6 +77,10 @@ Here you will find one of the greatest historical atlases: Charles O. Paullin an
 
 ###David's Links 
 
+David Medeiros' SGCCart Page (Cartography Resources)  
+
+[https://sites.google.com/site/sgccart/](https://sites.google.com/site/sgccart/)
+
 **Map Making Advice for students (Tom Patterson)**  
 [http://www.shadedrelief.com/bubble/patterson_cp65.pdf](http://www.shadedrelief.com/bubble/patterson_cp65.pdf)
 
@@ -95,5 +99,9 @@ Here you will find one of the greatest historical atlases: Charles O. Paullin an
 **Zombie Apocalypse Decision Map**
 [http://www.washingtonpost.com/news/wonkblog/wp/2015/10/09/the-definitive-guide-to-where-to-live-if-you-want-to-survive-a-zombie-apocalypse-the-definitive-guide/?utm_content=buffer65e74&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer](http://www.washingtonpost.com/news/wonkblog/wp/2015/10/09/the-definitive-guide-to-where-to-live-if-you-want-to-survive-a-zombie-apocalypse-the-definitive-guide/?utm_content=buffer65e74&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
+**Unfolding the earth**  
+(Myriahedral projections): [http://www.win.tue.nl/~vanwijk/myriahedral/](http://www.win.tue.nl/~vanwijk/myriahedral/)  
+
+Video on Myriahedral projections: [https://www.youtube.com/watch?v=b1xXTi1nFCo&feature=youtu.be](https://www.youtube.com/watch?v=b1xXTi1nFCo&feature=youtu.be)
 
 
